@@ -1,7 +1,7 @@
 # User Page: Aldrin Ilagan
 ## Introduction
 
-![](../Downloads/00047_240827_UCSD_Engineering_Industry_Day_78A_7977.jpg)
+![](00047_240827_UCSD_Engineering_Industry_Day_78A_7977.png)
 
 My name is Aldrin Ilagan and I am a third-year student at the *University of California San Diego*. I began programming in my senior year of high school, cultivating my programming skills at *Palomar College* until transferring to my current university.
 
