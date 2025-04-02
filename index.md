@@ -24,6 +24,7 @@ To visit the README file: [README](README.md)
 - grentperez
 - Mac Ayres
 - Leon Thomas
+
 ## Favorite Programming Languages
 1. C++
 2. ARM Assembly
