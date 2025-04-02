@@ -34,6 +34,6 @@ To visit the README file: [README](README.md)
 
 ## Goals
 Finally, here are some goals of mine as a Computer Science major and possibly a Software Engineer:
-- [ ] Complete a Personal Project
-- [ ] Get an internship
-- [ ] Graduate!
+- [ ]  Complete a Personal Project
+- [ ]  Get an internship
+- [ ]  Graduate!
